@@ -1,0 +1,26 @@
+{
+  "title": "Welcome to the “Connecting the Dots” Challenge",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Round 1A: Understand Your Document",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Appendix:",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Hackathon25.git",
+      "page": 9
+    }
+  ],
+  "description": "What You Need to Build You must build a solution that: • Accepts a PDF file (up to 50 pages) • Extracts: o Title o Headings: H1, H2, H3 (with level and page number) • Outputs a valid JSON file in the format below: { \"title\": \"Understanding AI\", \"outline\": [ { \"level\": \"H1\", \"text\": \"Introduction\", \"page\": 1 }, { \"level\": \"H2\", \"text\": \"What is AI A working Dockerfile 3 Challenge Theme: Connecting the Dots Through Docs Your Mission You're handed a PDF — but instead of simply reading it, you're tasked with making sense of it like a machine would."
+}
